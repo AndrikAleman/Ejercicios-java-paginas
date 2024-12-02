@@ -1,7 +1,14 @@
 package leetcode;
 
+import java.util.Scanner;
 
 public class AddTwoNumbers {
+
+    public static void main(String[] args) {
+
+    }
+    /*
+
     ListNode addTwoNumbers(ListNode l1, ListNode l2) {
 
         ListNode result = new ListNode(0);
@@ -32,5 +39,5 @@ public class AddTwoNumbers {
         if (carry == 1) ptr.next = new ListNode(1);
 
         return result.next;
-    }
+        */
 }
