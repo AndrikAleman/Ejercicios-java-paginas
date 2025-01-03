@@ -9,6 +9,8 @@ LeetCode - Problemas orientados a la mejora de habilidades de resolución de alg
 
 Retos de Programación de MoureDev - Desafíos semanales planteados por MoureDev, enfocados en desarrollar habilidades de lógica y optimización.
 
+Tambien contiene:
+- Metodos de ordenamiento --> burbuja, Insercion y quicksort
 -----------------------------
 
 Tecnologías
